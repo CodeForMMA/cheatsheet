@@ -1,8 +1,8 @@
-#Cheatsheet
+# Cheatsheet
 
-##Terminal
+## Terminal
 
-####NERDTree
+#### NERDTree
 - Moving buffers (From nerd tree to the opened file / navigate through different buffers)
     - ``gt``
 - Open new file into buffer
@@ -12,10 +12,10 @@
 - Renaming files in NERDTree
     - ``m-m (new name)``
 
-####PdfLatex
+#### PdfLatex
 - Compiling file to pdf with bibtex
     - ``pdflatex report.tex && bibtex report.aux && pdflatex report.tex && pdflatex report.tex`` 
 
-####Git
+#### Git
 - Unstage all
     - ``git reset``
