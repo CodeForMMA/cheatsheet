@@ -23,5 +23,7 @@
     - ``git reset``
 
 #### NVIM
+- [Search and Replace Full Deets]{https://vim.fandom.com/wiki/Search_and_replace}
+
 - Search and replace all
     - ``:%s/(foo)/(bar)`` 
