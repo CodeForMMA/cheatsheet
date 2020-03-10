@@ -11,6 +11,8 @@
     - ``CTRL-w-w``
 - Renaming files in NERDTree
     - ``m-m (new name)``
+- Refresh Tree
+    - ``r`` ``CTRL-r``
 
 #### PdfLatex
 - Compiling file to pdf with bibtex
