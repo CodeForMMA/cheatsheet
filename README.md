@@ -21,3 +21,7 @@
 #### Git
 - Unstage all
     - ``git reset``
+
+#### NVIM
+- Search and replace all
+    - ``:%s/(foo)/(bar)`` 
