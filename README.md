@@ -21,6 +21,8 @@
 #### Git
 - Unstage all
     - ``git reset``
+- Check what the remote is
+    - ``git remote -v``
 
 #### NVIM
 - [Search and Replace Full Deets](https://vim.fandom.com/wiki/Search_and_replace)
