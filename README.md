@@ -48,6 +48,7 @@ Everytime I learn a new one ill drop in here
 
 - Exit Terminal Mode 
     - Remapped to ``ESC``
+    - Usually `` CTRL - \ + N ``
 
 - Changing buffers
     - `` ARW KEYS `` 
