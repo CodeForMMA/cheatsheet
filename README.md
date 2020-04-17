@@ -55,3 +55,9 @@ Everytime I learn a new one ill drop in here
 
 - Closing buffers 
     - `` :buffers `` 
+
+#### Python
+
+- Conda activate
+    - ``conda config --set auto_activate_base False or True``
+    - [More](https://docs.anaconda.com/anaconda/install/mac-os/)
