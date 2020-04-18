@@ -23,6 +23,10 @@ Everytime I learn a new one ill drop in here
     - ``m-m (new name)``
 - Refresh Tree
     - ``r`` ``CTRL-r``
+- Bookmark directory
+    - ``:Bookmark``
+- Open Bookmark 
+    - ``:OpenBookmark <name>``
 
 #### PdfLatex
 
