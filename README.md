@@ -39,6 +39,8 @@ Everytime I learn a new one ill drop in here
     - ``git reset``
 - Check what the remote is
     - ``git remote -v``
+- Unstaging a specific file
+    - ``git reset -- <path>``
 
 #### NVIM
 
