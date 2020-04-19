@@ -60,6 +60,9 @@ Everytime I learn a new one ill drop in here
 - Closing buffers 
     - `` :buffers `` 
 
+- Fast Fold allows you to fold
+    - `` za `` to open and close folds
+
 #### Python
 
 - Conda activate
