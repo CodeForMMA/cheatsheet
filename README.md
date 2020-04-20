@@ -1,48 +1,67 @@
 # Cheatsheet
 
-Everytime I learn a new one ill drop in here
+> 'You saved my life with this!' - Snowden
 
-## Terminal
+> 'Fantastic' - The Wall Street Journal
 
-#### iTerm2
+> 'Astonishing!' - The LA Times
+
+### Terminal
+
+- cd back into previous directory
+    - ``cd -``
+
+### iTerm2
 
 - New Terminal Vertical
     - ``CMD + d ``
+
 - New Terminal Horizontal
     - ``CMD + SHIFT + d ``
 
-#### NERDTree
+- Switching between splits
+    - ``CMD + [`` or ``CMD + ]``
+
+### NERDTree
 
 - Moving buffers (From nerd tree to the opened file / navigate through different buffers)
     - ``gt``
+
 - Open new file into buffer
     - ``o``
+
 - Switching Panes (Nerd tree/Different buffers)
     - ``CTRL-w-w``
+
 - Renaming files in NERDTree
     - ``m-m (new name)``
+
 - Refresh Tree
     - ``r`` ``CTRL-r``
+
 - Bookmark directory
     - ``:Bookmark``
+
 - Open Bookmark 
     - ``:OpenBookmark <name>``
 
-#### PdfLatex
+### PdfLatex
 
 - Compiling file to pdf with bibtex
     - ``pdflatex report.tex && bibtex report.aux && pdflatex report.tex && pdflatex report.tex`` 
 
-#### Git
+### Git
 
 - Unstage all
     - ``git reset``
+
 - Check what the remote is
     - ``git remote -v``
+
 - Unstaging a specific file
     - ``git reset -- <path>``
 
-#### NVIM
+### NVIM
 
 - [Search and Replace Full Deets](https://vim.fandom.com/wiki/Search_and_replace)
 
@@ -65,7 +84,7 @@ Everytime I learn a new one ill drop in here
 - Fast Fold allows you to fold
     - `` za `` to open and close folds
 
-#### Python
+### Python
 
 - Conda activate
     - ``conda config --set auto_activate_base False or True``
