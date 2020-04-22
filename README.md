@@ -111,7 +111,8 @@
     - ``CTRL + W + =`` 
         - This will equalise the splits
 
-- [More Split Info](https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally)
+#### Plugins ####
+
 
 ### Python
 
