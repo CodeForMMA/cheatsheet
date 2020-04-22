@@ -19,7 +19,7 @@ Table of Contents
         - [NERDTree](#nerdtree)
 - [Vagrant](#vagrant)
 
-=================
+----------------
 
 ### Terminal
 
