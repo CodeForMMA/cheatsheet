@@ -19,6 +19,8 @@ Table of Contents
         - [NERDTree](#nerdtree)
 - [Vagrant](#vagrant)
 
+=================
+
 ### Terminal
 
 - cd back into previous directory
