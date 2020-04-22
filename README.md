@@ -108,7 +108,9 @@ Table of Contents
 
 - [Cheatsheet on Snippets for Markdown](https://jdhao.github.io/2019/01/15/markdown_edit_preview_nvim/)
     - Contains the snippets for writing markdown
-        
+
+- [How to use ultisnips](http://vimcasts.org/episodes/meet-ultisnips/)
+
 ##### NERDTree
 
 - Moving buffers (From nerd tree to the opened file / navigate through different buffers)
