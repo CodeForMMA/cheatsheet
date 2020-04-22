@@ -9,7 +9,7 @@
 Table of Contents
 =================
 
-- [Terminal](###Terminal)
+- [Terminal](#terminal)
 
 ### Terminal
 
