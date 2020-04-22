@@ -84,6 +84,12 @@
 - Fast Fold allows you to fold
     - `` za `` to open and close folds
 
+- Git inside NVIM
+    - ``:!git <command>``
+
+- Changing the pwd to current buffer
+    - ``:cd %:p:h``
+
 ### Python
 
 - Conda activate
