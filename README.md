@@ -102,6 +102,9 @@
     - ``<leader>h``
     - ``CTRL + W + W ``
 
+- Adjust the split 
+    - ``CTRL + W + (+ or -)``
+
 - [More Split Info](https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally)
 
 ### Python
