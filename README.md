@@ -118,3 +118,10 @@
 - Conda activate
     - ``conda config --set auto_activate_base False or True``
     - [More](https://docs.anaconda.com/anaconda/install/mac-os/)
+
+### Vagrant
+
+- [Changing the default shell](https://stackoverflow.com/questions/11913990/iterm2-keyboard-shortcut-for-moving-tabs-around)
+    - `sudo chsh -s /bin/zsh vagrant`
+
+
