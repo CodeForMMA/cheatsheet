@@ -102,7 +102,7 @@
     - ``<leader>h``
     - ``CTRL + W + W ``
 
-- Adjust the split 
+- [Adjust the split](https://vi.stackexchange.com/questions/514/how-do-i-change-the-current-splits-width-and-height) 
     - ``CTRL + W + (+ or -)``
     - ``CTRL + W + =`` 
         - This will equalise the splits
