@@ -92,9 +92,15 @@
 
 - Vertical Split (Inside NVIM)
     - ``:vsp``
+    - ``<leader>v``
 
 - Horizonal Split (Inside NVIM)
     - ``:sp``
+    - ``<leader>p``
+
+- Moving between Splits
+    - ``<leader>h``
+    - ``CTRL + W + W ``
 
 - [More Split Info](https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally)
 
