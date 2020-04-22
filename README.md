@@ -10,6 +10,14 @@ Table of Contents
 =================
 
 - [Terminal](#terminal)
+- [ITerm2](#iterm2)
+- [PdfLatex](#pdflatex)
+- [Git](#git)
+- [NVIM](#nvim)
+    - [Plugins](#plugins)
+        - [vim-snippets](#vim-snippets)
+        - [NERDTree](#nerdtree)
+- [Vagrant](#vagrant)
 
 ### Terminal
 
