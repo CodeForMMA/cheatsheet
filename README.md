@@ -65,6 +65,10 @@
 
 - [Search and Replace Full Deets](https://vim.fandom.com/wiki/Search_and_replace)
 
+- [Splits](https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally)
+
+- [Mapping Keys for Vim](https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1))
+
 - Search and replace all
     - ``:%s/(foo)/(bar)`` 
 
@@ -89,9 +93,6 @@
 
 - Changing the pwd to current buffer
     - ``:cd %:p:h``
-
-- [Splits](https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally)
-
 
 - Vertical Split (Inside NVIM)
     - ``:vsp``
