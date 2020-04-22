@@ -113,6 +113,10 @@
 
 #### Plugins ####
 
+##### vim-snippets #####
+
+- [Cheatsheet on Snippets for Markdown](https://jdhao.github.io/2019/01/15/markdown_edit_preview_nvim/)
+    - Contains the snippets for writing markdown
 
 ### Python
 
