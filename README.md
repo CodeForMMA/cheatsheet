@@ -90,6 +90,9 @@
 - Changing the pwd to current buffer
     - ``:cd %:p:h``
 
+- [Splits](https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally)
+
+
 - Vertical Split (Inside NVIM)
     - ``:vsp``
     - ``<leader>v``
