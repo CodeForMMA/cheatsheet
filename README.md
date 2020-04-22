@@ -22,29 +22,6 @@
 - Switching between splits
     - ``CMD + [`` or ``CMD + ]``
 
-### NERDTree
-
-- Moving buffers (From nerd tree to the opened file / navigate through different buffers)
-    - ``gt``
-
-- Open new file into buffer
-    - ``o``
-
-- Switching Panes (Nerd tree/Different buffers)
-    - ``CTRL-w-w``
-
-- Renaming files in NERDTree
-    - ``m-m (new name)``
-
-- Refresh Tree
-    - ``r`` ``CTRL-r``
-
-- Bookmark directory
-    - ``:Bookmark``
-
-- Open Bookmark 
-    - ``:OpenBookmark <name>``
-
 ### PdfLatex
 
 - Compiling file to pdf with bibtex
@@ -112,17 +89,33 @@
         - This will equalise the splits
 
 #### Plugins ####
-
 ##### vim-snippets #####
 
 - [Cheatsheet on Snippets for Markdown](https://jdhao.github.io/2019/01/15/markdown_edit_preview_nvim/)
     - Contains the snippets for writing markdown
+        
+##### NERDTree
 
-### Python
+- Moving buffers (From nerd tree to the opened file / navigate through different buffers)
+    - ``gt``
 
-- Conda activate
-    - ``conda config --set auto_activate_base False or True``
-    - [More](https://docs.anaconda.com/anaconda/install/mac-os/)
+- Open new file into buffer
+    - ``o``
+
+- Switching Panes (Nerd tree/Different buffers)
+    - ``CTRL-w-w``
+
+- Renaming files in NERDTree
+    - ``m-m (new name)``
+
+- Refresh Tree
+    - ``r`` ``CTRL-r``
+
+- Bookmark directory
+    - ``:Bookmark``
+
+- Open Bookmark 
+    - ``:OpenBookmark <name>``
 
 ### Vagrant
 
