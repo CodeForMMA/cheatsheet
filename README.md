@@ -90,6 +90,14 @@
 - Changing the pwd to current buffer
     - ``:cd %:p:h``
 
+- Vertical Split (Inside NVIM)
+    - ``:vsp``
+
+- Horizonal Split (Inside NVIM)
+    - ``:sp``
+
+- [More Split Info](https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally)
+
 ### Python
 
 - Conda activate
