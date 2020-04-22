@@ -6,6 +6,11 @@
 
 > 'Astonishing!' - The LA Times
 
+Table of Contents
+=================
+
+    * [Terminal](###Terminal)
+
 ### Terminal
 
 - cd back into previous directory
