@@ -111,6 +111,10 @@ Table of Contents
 
 - [How to use ultisnips](http://vimcasts.org/episodes/meet-ultisnips/)
 
+- [Markdown Snippets Code](https://github.com/honza/vim-snippets/blob/master/snippets/markdown.snippets)
+
+- [Python Snippets Code](https://github.com/honza/vim-snippets/blob/master/snippets/python.snippets)
+
 ##### NERDTree
 
 - Moving buffers (From nerd tree to the opened file / navigate through different buffers)
