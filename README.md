@@ -103,6 +103,10 @@ Table of Contents
     - ``CTRL + W + =`` 
         - This will equalise the splits
 
+- Going through completion menu
+    - `CTRL + n`
+    - `CTRL + b`
+
 #### Plugins ####
 ##### vim-snippets #####
 
