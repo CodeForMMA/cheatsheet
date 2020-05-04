@@ -10,6 +10,7 @@ Table of Contents
 =================
 
 - [Terminal](#terminal)
+    - [ZSH](#ZSH)
 - [ITerm2](#iterm2)
 - [PdfLatex](#pdflatex)
 - [Git](#git)
@@ -25,6 +26,30 @@ Table of Contents
 
 - cd back into previous directory
     - ``cd -``
+
+#### ZSH
+
+- Moving to the beginning of the line
+    - `<C-a>`
+
+- Moving to the end of the line
+    - `<C-e>`
+
+- Moving curser left/right
+    - `<C-b>` 
+    - `<C-f>`
+
+- Delete everything from the cursor to the beginning/end of the line 
+    - `<C-u>`
+    - `<C-k>`
+
+- Deletes the previous 'word'
+    - `<C-w>`
+
+- Insert the last parameter of the pervious command
+    - `ESC+_`
+
+
 
 ### iTerm2
 
