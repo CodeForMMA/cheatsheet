@@ -86,6 +86,8 @@ Table of Contents
 
 - [Mapping Keys for Vim](https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1))
 
+- [Moving Around text files](https://vim.fandom.com/wiki/Moving_around)
+
 - Search and replace all
     - ``:%s/(foo)/(bar)`` 
 
