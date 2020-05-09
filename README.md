@@ -91,6 +91,13 @@ Table of Contents
 - Search and replace all
     - ``:%s/(foo)/(bar)`` 
 
+- Delete all empty lines
+    - `:g/^$/d`
+        - The : character says, “put vim in last-line mode.” 
+        - The g character says, “perform the following operation globally in this file.” (Operate on all lines in this file.) 
+        - The forward slash characters enclose the pattern to match. To match blank lines, regular expression ^$. Here the ^ means “beginning of line,” and $ means “end of line,” so with no characters in between them, this vim regex means “blank line.” (If I had typed ^abc$, that would mean, “find a line with only the sequence of characters ‘abc’”.) 
+        - The d at the end of the command says, “When you find this pattern, delete the line.”
+
 - Terminal Mode 
     - ``:Terminal``
 
