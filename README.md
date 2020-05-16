@@ -27,6 +27,9 @@ Table of Contents
 - cd back into previous directory
     - ``cd -``
 
+- Open ports
+    - `sudo lsof -PiTCP -sTCP:LISTEN`
+
 #### ZSH
 
 - Moving to the beginning of the line
